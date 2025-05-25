@@ -26,14 +26,7 @@ A machine learning-based phishing detection system that identifies phishing emai
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Zahra203/Phishing-Detection.git
-cd Phishing-Detection
-
-**
-**Usage*
+Usage
 
 Upload an email or enter a URL in the Streamlit UI
 
