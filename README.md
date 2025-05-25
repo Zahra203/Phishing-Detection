@@ -4,11 +4,11 @@ A machine learning-based phishing detection system that identifies phishing emai
 
 ## Features
 
-- 🔍 Detects phishing emails using NLP and classification models
-- 🌐 Identifies phishing URLs using feature-based analysis
-- 📊 Machine learning models trained on balanced and preprocessed datasets
-- 🖥️ Streamlit-based UI for easy usage
-- 🔒 Helps raise awareness against phishing attacks
+- Detects phishing emails using NLP and classification models
+- Identifies phishing URLs using feature-based analysis
+- Machine learning models trained on balanced and preprocessed datasets
+- Streamlit-based UI for easy usage
+- Helps raise awareness against phishing attacks
 
 ## Project Structure
 
