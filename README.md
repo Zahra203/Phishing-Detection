@@ -35,6 +35,20 @@ A machine learning-based phishing detection system that identifies phishing emai
 - **Streamlit** (for UI)
 - **JSON** (for storing user data)
 
+## Libraries
+
+- streamlit
+- joblib
+- nltk
+- numpy
+- bcrypt
+- bs4 (BeautifulSoup)
+- re (regular expressions)
+- json
+- os
+- ipaddress
+- urllib.parse
+
 
 ## Installation
 
