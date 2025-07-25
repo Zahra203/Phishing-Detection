@@ -10,14 +10,15 @@ A machine learning-based phishing detection system that identifies phishing emai
 - Streamlit-based UI for easy usage
 - Helps raise awareness against phishing attacks
 
-## Project Structure
+## Files included
 
-── models/ # Trained models for email & URL detection
-├── data/ # Cleaned datasets
-├── utils/ # Feature engineering and helper functions
-├── app.py # Main Streamlit application
-├── phishing_app.zip # (Optional) Archived version of the app
-
+- **Ling.csv**
+- **Nazario.csv**
+- **Nigerian.csv**
+- **Spam.csv**
+- **dataset_phishing.csv**
+- **phishing_detection_websites.ipynb**
+- **phishing_detection_(email).ipynb**
 
 ## Models Used
 
