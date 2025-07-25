@@ -23,6 +23,17 @@ A machine learning-based phishing detection system that identifies phishing emai
 
 - **Email Phishing Detection**: TF-IDF + Logistic Regression (optimized for precision)
 - **URL Phishing Detection**: Feature-based Random Forest Classifier
+- **Streamlit Web App**  : Simple and interactive UI for end-users to test the models.
+- **User Management**  : Includes login functionality and a `users.json` file to manage user credentials.
+
+##  Technologies Used
+
+- **Python**
+- **Scikit-learn**
+- **Joblib** (for model serialization)
+- **Streamlit** (for UI)
+- **JSON** (for storing user data)
+
 
 ## Installation
 
