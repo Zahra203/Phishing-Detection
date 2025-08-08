@@ -1,4 +1,4 @@
-#  Phishing Detection App
+#  Phishing Detection Tool
 
 A machine learning-based phishing detection system that identifies phishing emails and malicious websites. Built using Python, trained on feature-rich datasets, and deployed with a simple UI for user interaction.
 
